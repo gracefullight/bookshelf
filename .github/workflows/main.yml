@@ -20,12 +20,13 @@ jobs:
       run: yarn install
 
     - name: Collect Data
-      run: yarn cmd collect \
-        --site acorn \
-        --site bjpublic \
-        --site hanbit \
-        --site insight \
-        --site wikibook
+      run: |
+        yarn cmd collect \
+          --site acorn \
+          --site bjpublic \
+          --site hanbit \
+          --site insight \
+          --site wikibook
 
     - name: Copy Outputs
       run: cp -r dist/* public/
