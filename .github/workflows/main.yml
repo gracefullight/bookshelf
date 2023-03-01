@@ -1,0 +1,38 @@
+name: Collect New Books
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  collect-data:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+      
+    - name: Use Node.js 18.x
+      uses: actions/setup-node@v2
+      with:
+        node-version: 18.x
+
+    - name: Install Dependencies
+      run: yarn install
+
+    - name: Collect Data
+      run: yarn cmd collect \
+        --site acorn \
+        --site bjpublic \
+        --site hanbit \
+        --site insight \
+        --site wikibook
+
+    - name: Copy Outputs
+      run: cp -r dist/* public/
+
+    - name: Commit Changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: 'chore: update feeds'
+        commit_options: '--no-verify --signoff'
+        file_pattern: public/*

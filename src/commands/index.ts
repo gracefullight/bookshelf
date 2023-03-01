@@ -1,0 +1,1 @@
+export { CollectCommand } from "./collect";
