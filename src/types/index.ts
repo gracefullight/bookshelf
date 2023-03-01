@@ -31,7 +31,6 @@ export interface PluginOptions {
   limit?: number;
   hasDetail?: boolean;
   userAgent?: string;
-  dateFormat?: string;
   timezone?: string;
 
   selectors: Selectors;

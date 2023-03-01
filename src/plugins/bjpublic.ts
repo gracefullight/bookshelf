@@ -3,13 +3,15 @@ import type { PluginOptions } from "../types";
 const options: PluginOptions = {
   name: "bjpublic",
   url: "https://bjpublic.tistory.com/category/새로%20나온%20책",
-  dateFormat: "yyyy.MM.dd",
 
   selectors: {
     url: "#content_search .link_thumb",
 
     title: "#content_search .cont_thumb > p:nth-child(1)",
-    date: "#content_search .cont_thumb .thumb_info > .date",
+    date: ["#content_search .cont_thumb .thumb_info > .date", (p) => {
+      const pText = p.textContent as string;
+      return pText.split('.').join('-');
+    }],
     author: [
       "#content_search .cont_thumb > p:nth-child(2)",
       (p) => {

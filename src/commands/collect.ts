@@ -22,13 +22,16 @@ export class CollectCommand extends Command {
   static paths = [["collect"]];
 
   sites = Option.Array("--site", { required: true });
-  plugin?: PluginOptions;
 
   async execute(): Promise<void> {
     await Promise.all(
       Object.entries(plugins)
         .filter(([key]) => this.sites.includes(key))
-        .map(([key, plugin]) => this.handlePlugin(key, plugin))
+        .map(([key, plugin]) =>
+          this.handlePlugin(key, plugin).catch((e: Error) =>
+            this.context.stderr.write(`${key}: ${e.message}\n`)
+          )
+        )
     );
   }
 
@@ -37,7 +40,6 @@ export class CollectCommand extends Command {
     plugin: PluginOptions
   ): Promise<void> {
     this.context.stdout.write(`📗 Find a new book: ${key}\n`);
-    this.plugin = plugin;
 
     const { hostname } = new URL(plugin.url);
     const dom = await JSDOM.fromURL(plugin.url, {
@@ -168,12 +170,6 @@ export class CollectCommand extends Command {
     return [...document.querySelectorAll<HTMLElement>(selector as string)].map(
       (element) => {
         switch (selectorKey) {
-          case "date":
-            const dateOnly = "yyyy-MM-dd";
-            return DateTime.fromFormat(
-              element.textContent as string,
-              this.plugin?.dateFormat ?? dateOnly
-            ).toFormat(dateOnly);
           case "url":
             return (element as HTMLAnchorElement).href;
           case "image":
