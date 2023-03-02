@@ -30,7 +30,7 @@
     "@types/jsdom": "^21.1.0",
     "@types/lodash": "^4.14.191",
     "@types/luxon": "^3.2.0",
-    "@types/node": "^18.14.2",
+    "@types/node": "^18.14.4",
     "devmoji": "^2.3.0",
     "husky": "^8.0.3",
     "regenerator-runtime": "^0.13.11",

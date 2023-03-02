@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jsdom", "npm:21.1.0"],\
             ["@types/lodash", "npm:4.14.191"],\
             ["@types/luxon", "npm:3.2.0"],\
-            ["@types/node", "npm:18.14.2"],\
+            ["@types/node", "npm:18.14.4"],\
             ["clipanion", "virtual:265f86af0e97d9f02e6077774a210a0e29f406f91c1fac608c70d96602e2019ae314b3930b010990082bca811a4688a32cb1170cf84625b4f5575f11c97e961f#npm:3.2.0"],\
             ["devmoji", "npm:2.3.0"],\
             ["feed", "npm:4.2.2"],\
@@ -332,7 +332,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jsdom", "npm:21.1.0"],\
             ["@types/lodash", "npm:4.14.191"],\
             ["@types/luxon", "npm:3.2.0"],\
-            ["@types/node", "npm:18.14.2"],\
+            ["@types/node", "npm:18.14.4"],\
             ["clipanion", "virtual:265f86af0e97d9f02e6077774a210a0e29f406f91c1fac608c70d96602e2019ae314b3930b010990082bca811a4688a32cb1170cf84625b4f5575f11c97e961f#npm:3.2.0"],\
             ["devmoji", "npm:2.3.0"],\
             ["feed", "npm:4.2.2"],\
@@ -606,6 +606,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-node-npm-18.14.2-ba0496d563-53c07e721f.zip/node_modules/@types/node/",\
           "packageDependencies": [\
             ["@types/node", "npm:18.14.2"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:18.14.4", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-18.14.4-ed37dd0e01-3f2f625777.zip/node_modules/@types/node/",\
+          "packageDependencies": [\
+            ["@types/node", "npm:18.14.4"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2718,7 +2725,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@tsconfig/node12", "npm:1.0.11"],\
             ["@tsconfig/node14", "npm:1.0.3"],\
             ["@tsconfig/node16", "npm:1.0.3"],\
-            ["@types/node", "npm:18.14.2"],\
+            ["@types/node", "npm:18.14.4"],\
             ["@types/swc__core", null],\
             ["@types/swc__wasm", null],\
             ["@types/typescript", null],\
