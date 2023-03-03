@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.acornpub.co.kr/book/new</id>
     <title>acorn</title>
-    <updated>2023-03-03T03:22:45.898Z</updated>
+    <updated>2023-03-03T06:23:16.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -15,7 +15,7 @@
         <title type="html"><![CDATA[기업의 DX와 5G]]></title>
         <id>http://www.acornpub.co.kr/book/dx-5g</id>
         <link href="http://www.acornpub.co.kr/book/dx-5g"/>
-        <updated>2023-03-01T00:00:00.000Z</updated>
+        <updated>2023-03-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[기업의 디지털 혁신, DX에 근간이 되는 5G 자가망에 대한 글로벌 사례 및 적용 유형, 국내 5G 특화망 제도, 5G 기술 아키텍처 및 특징, 6G 등을 소개하는 기업용 5G 자가망에 대한 실무적 지침서다.]]></summary>
         <author>
             <name>최성남 외 2명</name>
@@ -42,6 +42,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[딥러닝 초보자를 위한 엔비디아 가이드북]]></title>
+        <id>http://www.acornpub.co.kr/book/learning-deep-learning</id>
+        <link href="http://www.acornpub.co.kr/book/learning-deep-learning"/>
+        <updated>2023-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[복잡하지 않게 한 권으로 딥러닝을 배우고 싶은 사람을 위한 딥러닝 입문서다.]]></summary>
+        <author>
+            <name>매그너스 에크만(Magnus Ekman)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[데이터베이스 신뢰성 엔지니어링]]></title>
         <id>http://www.acornpub.co.kr/book/database-reliability-engineering</id>
         <link href="http://www.acornpub.co.kr/book/database-reliability-engineering"/>
@@ -49,16 +59,6 @@
         <summary type="html"><![CDATA[과거 DBA의 역할이 DBRE(DataBase Reliability Engineering)라는 새로운 패러다임을 만나게 되면서 그 역할이 어떻게 변해야 하는지 설명한다.]]></summary>
         <author>
             <name>레인 캠벨(Laine Campbell) 외 1명</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥러닝 초보자를 위한 엔비디아 가이드북]]></title>
-        <id>http://www.acornpub.co.kr/book/learning-deep-learning</id>
-        <link href="http://www.acornpub.co.kr/book/learning-deep-learning"/>
-        <updated>2023-02-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[복잡하지 않게 한 권으로 딥러닝을 배우고 싶은 사람을 위한 딥러닝 입문서다.]]></summary>
-        <author>
-            <name>매그너스 에크만(Magnus Ekman)</name>
         </author>
     </entry>
     <entry>
