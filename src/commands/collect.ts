@@ -5,7 +5,7 @@ import { faker } from "@faker-js/faker";
 import { Command, Option } from "clipanion";
 import { Feed } from "feed";
 import { ensureDir, writeFile } from "fs-extra";
-import { JSDOM } from "jsdom";
+import { JSDOM, ResourceLoader } from "jsdom";
 import { entries, omit, zip } from "lodash";
 import { DateTime } from "luxon";
 
@@ -18,8 +18,10 @@ import type {
   Selector,
 } from "../types";
 
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36";
+const resourceLoader = new ResourceLoader({
+  userAgent:
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+});
 
 export class CollectCommand extends Command {
   static paths = [["collect"]];
@@ -46,7 +48,7 @@ export class CollectCommand extends Command {
 
     const { hostname } = new URL(plugin.url);
     const dom = await JSDOM.fromURL(plugin.url, {
-      userAgent: UA,
+      resources: resourceLoader,
     });
     const mainDocument = dom.window.document;
     const tempUrls = this.getTextFromDocument(
@@ -204,7 +206,7 @@ export class CollectCommand extends Command {
       urls.map(async (url) => {
         await setTimeout(faker.datatype.number({ min: 500, max: 2000 }));
         const detailDom = await JSDOM.fromURL(url, {
-          userAgent: UA,
+          resources: resourceLoader,
         });
 
         detailDocumentsCache[url] = detailDom.window.document;

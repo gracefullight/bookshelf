@@ -28,6 +28,7 @@ jobs:
         yarn cmd collect \
           --site acorn \
           --site bjpublic \
+          --site easyspub \
           --site hanbit \
           --site insight \
           --site wikibook
