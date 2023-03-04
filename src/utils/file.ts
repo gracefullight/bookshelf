@@ -2,7 +2,7 @@ import { resolve } from "path";
 
 import { createWriteStream, ensureDir, writeFile } from "fs-extra";
 import { Readable } from "stream";
-import { ReadableStream } from "stream/web";
+import type { ReadableStream } from "stream/web";
 
 const outDir = resolve(__dirname, "..", "..", "dist");
 
