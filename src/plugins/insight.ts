@@ -3,6 +3,7 @@ import type { PluginOptions } from "../types";
 // ? https://blog.insightbook.co.kr/feed/
 const options: PluginOptions = {
   name: "insight",
+  type: "crawl",
   url: "https://ebook.insightbook.co.kr/search",
   limit: 20,
   hasDetail: true,

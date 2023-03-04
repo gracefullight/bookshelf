@@ -4,6 +4,7 @@ import type { PluginOptions } from "../types";
 
 const options: PluginOptions = {
   name: "hanbit",
+  type: "crawl",
   url: "https://www.hanbit.co.kr/media/books/new_book_list.html",
   hasDetail: true,
 

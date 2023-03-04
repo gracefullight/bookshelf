@@ -2,6 +2,7 @@ import type { PluginOptions } from "../types";
 
 const options: PluginOptions = {
   name: "bjpublic",
+  type: "crawl",
   url: "https://bjpublic.tistory.com/category/새로%20나온%20책",
 
   selectors: {

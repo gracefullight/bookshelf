@@ -1,10 +1,8 @@
-import { resolve } from "path";
 import { setTimeout } from "timers/promises";
 
 import { faker } from "@faker-js/faker";
 import { Command, Option } from "clipanion";
 import { Feed } from "feed";
-import { ensureDir, writeFile } from "fs-extra";
 import { JSDOM, ResourceLoader } from "jsdom";
 import { entries, omit, zip } from "lodash";
 import { DateTime } from "luxon";
@@ -13,10 +11,12 @@ import * as plugins from "../plugins";
 import type {
   SelectorKeys,
   SelectorCallback,
-  PluginOptions,
   SelectorConfig,
   Selector,
+  CrawlPluginOptions,
+  FilePluginOptions,
 } from "../types";
+import { downloadFeed, writeFeed } from "../utils";
 
 const resourceLoader = new ResourceLoader({
   userAgent:
@@ -32,17 +32,26 @@ export class CollectCommand extends Command {
     await Promise.all(
       Object.entries(plugins)
         .filter(([key]) => this.sites.includes(key))
-        .map(([key, plugin]) =>
-          this.handlePlugin(key, plugin).catch((e: Error) =>
-            this.context.stderr.write(`${key}: ${e.message}\n`)
-          )
-        )
+        .map(([key, plugin]) => {
+          if (plugin.type === "crawl") {
+            return this.handleCrawlPlugin(key, plugin).catch((e: Error) =>
+              this.context.stderr.write(`${key}: ${e.message}\n`)
+            );
+          } else {
+            return this.handleFilePlugin(key, plugin);
+          }
+        })
     );
   }
 
-  private async handlePlugin(
+  private async handleFilePlugin(key: string, plugin: FilePluginOptions) {
+    await downloadFeed(key, plugin.url);
+    this.context.stdout.write(`📰 Done: ${key}\n`);
+  }
+
+  private async handleCrawlPlugin(
     key: string,
-    plugin: PluginOptions
+    plugin: CrawlPluginOptions
   ): Promise<void> {
     this.context.stdout.write(`📗 Find a new book: ${key}\n`);
 
@@ -130,10 +139,7 @@ export class CollectCommand extends Command {
 
     items.forEach((item) => feed.addItem(item));
     const atom = feed.atom1();
-
-    const outDir = resolve(__dirname, "..", "..", "dist");
-    await ensureDir(outDir);
-    await writeFile(resolve(outDir, `${key}.xml`), atom, "utf8");
+    await writeFeed(`${key}.xml`, atom);
     this.context.stdout.write(`📰 Done: ${key}\n`);
   }
 

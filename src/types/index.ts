@@ -25,13 +25,22 @@ export type Selector<T extends HTMLElement = HTMLElement> =
   | [string, SelectorCallback<T>]
   | [string, SelectorCallback<T>, SelectorConfig];
 
-export interface PluginOptions {
+interface PluginOptionsBase {
   name: string;
   url: string;
+  userAgent?: string;
+}
+
+export interface CrawlPluginOptions extends PluginOptionsBase {
+  type: "crawl";
+  selectors: Selectors;
   limit?: number;
   hasDetail?: boolean;
-  userAgent?: string;
   timezone?: string;
-
-  selectors: Selectors;
 }
+
+export interface FilePluginOptions extends PluginOptionsBase {
+  type: "file";
+}
+
+export type PluginOptions = CrawlPluginOptions | FilePluginOptions;

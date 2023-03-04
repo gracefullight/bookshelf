@@ -2,6 +2,7 @@ import type { PluginOptions } from "../types";
 
 const options: PluginOptions = {
   name: "acorn",
+  type: "crawl",
   url: "http://www.acornpub.co.kr/book/new",
 
   selectors: {

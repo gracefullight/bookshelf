@@ -3,6 +3,7 @@ import type { PluginOptions } from "../types";
 // ! blocked JSDOM
 const options: PluginOptions = {
   name: "easyspub",
+  type: "crawl",
   url: "http://www.easyspub.co.kr/20_Menu/BookList/PUB",
 
   selectors: {
