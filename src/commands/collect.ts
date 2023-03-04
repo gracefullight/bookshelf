@@ -139,7 +139,7 @@ export class CollectCommand extends Command {
 
     items.forEach((item) => feed.addItem(item));
     const atom = feed.atom1();
-    await writeFeed(`${key}.xml`, atom);
+    await writeFeed(key, atom);
     this.context.stdout.write(`📰 Done: ${key}\n`);
   }
 
