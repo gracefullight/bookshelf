@@ -34,7 +34,7 @@ export class CollectCommand extends Command {
         .filter(([key]) => this.sites.includes(key))
         .map(([key, plugin]) => {
           if (plugin.type === "crawl") {
-            return this.handleCrawlPlugin(key, plugin).catch((e: Error) =>
+            return this.handleCrawlPlugin(key, plugin).catch((e: Error) => 
               this.context.stderr.write(`${key}: ${e.message}\n`)
             );
           } else {
