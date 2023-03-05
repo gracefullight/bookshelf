@@ -16,7 +16,9 @@ export async function downloadFeed(
     "utf8"
   );
 
-  const { body } = await fetch(url);
+  const { body } = await fetch(url, {
+    redirect: "follow",
+  });
   const readableNodeStream = Readable.fromWeb(
     body as ReadableStream<Uint8Array>
   );
