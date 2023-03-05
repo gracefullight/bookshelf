@@ -29,6 +29,7 @@ jobs:
           --site acorn \
           --site bjpublic \
           --site easyspub \
+          --site gilbut \
           --site hanbit \
           --site insight \
           --site wikibook
