@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-03-06T18:23:27.581Z</updated>
+    <updated>2023-03-07T01:42:23.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,16 @@
         <summary type="html"><![CDATA[라우팅 기초부터 이벤트 플래너 애플리케이션 구축 및 배포까지 I 윈도우/리눅스 명령어 제공]]></summary>
         <author>
             <name>압둘라지즈 압둘라지즈 아데시나</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맛있는 디자인 애프터 이펙트 CC 2023]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3002133599</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3002133599"/>
+        <updated>2023-03-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[쉽게 배워 제대로 써먹는 모션 그래픽 영상 디자인]]></summary>
+        <author>
+            <name>이수정</name>
         </author>
     </entry>
     <entry>
@@ -231,22 +241,6 @@
         <updated>2022-11-30T00:00:00.000Z</updated>
         <author>
             <name>이은영</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트랜스포머를 활용한 자연어 처리]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2369016915</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2369016915"/>
-        <updated>2022-11-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[허깅페이스 개발팀이 알려주는 자연어 애플리케이션 구축]]></summary>
-        <author>
-            <name>루이스 턴스톨</name>
-        </author>
-        <author>
-            <name>레안드로 폰 베라</name>
-        </author>
-        <author>
-            <name>토마스 울프</name>
         </author>
     </entry>
 </feed>
