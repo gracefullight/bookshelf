@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-03-14T01:13:51.735Z</updated>
+    <updated>2023-03-14T06:22:50.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -49,6 +49,19 @@
         <summary type="html"><![CDATA[진입이 쉽고 자본 없이 성공할 수 있는 스마트스토어 운영 방법은 따로 있다!  네이버 비즈니스 스쿨 대표 강사가 알려주는 (2023년 최신) 스마트스토어 창업&운영]]></summary>
         <author>
             <name>서미진</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나도 하는 파이썬 데이터 분석]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6929916672</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6929916672"/>
+        <updated>2023-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[도시 생활 데이터를 활용한 데이터 분석 방법]]></summary>
+        <author>
+            <name>김규석</name>
+        </author>
+        <author>
+            <name>김현정</name>
         </author>
     </entry>
     <entry>
@@ -232,16 +245,6 @@
         </author>
         <author>
             <name>줄리 서스먼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NGINX 쿡북(2판)]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9583925549</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9583925549"/>
-        <updated>2022-12-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[115가지 레시피로 배우는 고성능 부하분산, 보안, 서버 배포와 관리]]></summary>
-        <author>
-            <name>데릭 디용기</name>
         </author>
     </entry>
 </feed>
