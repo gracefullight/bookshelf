@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-03-20T06:23:04.508Z</updated>
+    <updated>2023-03-20T12:35:02.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,19 @@
         <summary type="html"><![CDATA[C++20, 병렬 알고리즘, 파일시스템, 제네릭 람다, 디자인 패턴, 객체지향의 원리를 익히는 확실한 방법]]></summary>
         <author>
             <name>마크 그레고리</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초보자를 위한 유니티 입문(개정2판)]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1399693424</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1399693424"/>
+        <updated>2023-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[실습하며 정복하는 2D & 3D 게임 개발 기초]]></summary>
+        <author>
+            <name>아라카와 다쿠야</name>
+        </author>
+        <author>
+            <name>아사노 유이치</name>
         </author>
     </entry>
     <entry>
@@ -223,16 +236,6 @@
         <summary type="html"><![CDATA[안정적인 웹 프로젝트 운영을 위한 타입스크립트의 모든 것]]></summary>
         <author>
             <name>조시 골드버그</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼자 공부하는 데이터 분석 with 파이썬]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1666992199</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1666992199"/>
-        <updated>2023-01-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1:1 과외하듯 배우는 데이터 분석 자습서]]></summary>
-        <author>
-            <name>박해선</name>
         </author>
     </entry>
 </feed>
