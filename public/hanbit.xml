@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-03-22T01:18:52.990Z</updated>
+    <updated>2023-03-22T06:20:55.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,16 @@
         <summary type="html"><![CDATA[C++20, 병렬 알고리즘, 파일시스템, 제네릭 람다, 디자인 패턴, 객체지향의 원리를 익히는 확실한 방법]]></summary>
         <author>
             <name>마크 그레고리</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게임 전쟁]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1141735514</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1141735514"/>
+        <updated>2023-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[게임 패권 다툼 그리고 위대한 콘솔의 탄생]]></summary>
+        <author>
+            <name>스티븐 켄트</name>
         </author>
     </entry>
     <entry>
@@ -226,16 +236,6 @@
         </author>
         <author>
             <name>조기현</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러닝 타입스크립트]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9711663545</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9711663545"/>
-        <updated>2023-01-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[안정적인 웹 프로젝트 운영을 위한 타입스크립트의 모든 것]]></summary>
-        <author>
-            <name>조시 골드버그</name>
         </author>
     </entry>
 </feed>
