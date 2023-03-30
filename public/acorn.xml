@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.acornpub.co.kr/book/new</id>
     <title>acorn</title>
-    <updated>2023-03-30T06:21:27.652Z</updated>
+    <updated>2023-03-30T12:33:09.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -48,7 +48,7 @@
         <updated>2023-03-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[인공지능과 지능형 로봇 시스템에 대해 이뤄진 연구 성과를 종합 정리한 결과다.]]></summary>
         <author>
-            <name>로빈 머피(Robin R. Murphy)</name>
+            <name>로빈 R. 머피(Robin R. Murphy)</name>
         </author>
     </entry>
     <entry>
