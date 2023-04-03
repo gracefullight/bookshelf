@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-04-03T01:15:16.050Z</updated>
+    <updated>2023-04-03T06:20:50.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -16,7 +16,7 @@
         <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8810771470</id>
         <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8810771470"/>
         <updated>2023-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[개발 생태계 모든 사람을 위한 기술 문서 작성 방법]]></summary>
+        <summary type="html"><![CDATA[우아한형제들 카카오 등 국내 테크니컬 라이터 11인 인터뷰 특별 수록]]></summary>
         <author>
             <name>자레드 바티</name>
         </author>
