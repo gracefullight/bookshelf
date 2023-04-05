@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2023-04-04T18:17:42.990Z</updated>
+    <updated>2023-04-05T01:05:40.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -27,6 +27,15 @@
         <updated>2023-04-20T00:00:00.000Z</updated>
         <author>
             <name>김정은</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부동산 절세 무작정 따라하기]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003704</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003704"/>
+        <updated>2023-04-05T00:00:00.000Z</updated>
+        <author>
+            <name>박민수(제네시스)</name>
         </author>
     </entry>
     <entry>
@@ -172,22 +181,6 @@
         </author>
         <author>
             <name>김수정</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아토믹 코틀린]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003681</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003681"/>
-        <updated>2023-03-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[코틀린 컴파일러 개발자가 알려주는 코틀린 기본기 87]]></summary>
-        <author>
-            <name>브루스 에켈</name>
-        </author>
-        <author>
-            <name>스베트라나 이사코바</name>
-        </author>
-        <author>
-            <name>오현석</name>
         </author>
     </entry>
 </feed>
