@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-04-21T01:16:30.539Z</updated>
+    <updated>2023-04-21T06:21:04.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -22,6 +22,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AWS 기반 데이터 과학]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6134249359</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6134249359"/>
+        <updated>2023-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[엔드투엔드, AI/ML 파이프라인 구현하기 | 아마존 클라우드 컴퓨팅 분야 베스트셀러]]></summary>
+        <author>
+            <name>크리스 프레글리</name>
+        </author>
+        <author>
+            <name>안티 바르트</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[자바 개발자를 위한 데브옵스 툴]]></title>
         <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1030979866</id>
         <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1030979866"/>
@@ -38,6 +51,19 @@
         </author>
         <author>
             <name>바루크 사도구르스키</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이터 과학 레벨 업 with 로드맵]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9570217910</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9570217910"/>
+        <updated>2023-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[캐글 그랜드마스터가 알려주는 문제 해결의 기술]]></summary>
+        <author>
+            <name>콘라트 바나헤비치</name>
+        </author>
+        <author>
+            <name>루카 마사론</name>
         </author>
     </entry>
     <entry>
@@ -234,29 +260,6 @@
         </author>
         <author>
             <name>이수정</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맛있는 디자인 포토샵&일러스트레이터 CC 2023]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7670827396</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7670827396"/>
-        <updated>2023-01-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[누구나 쉽게 배워 제대로 써먹는 그래픽 입문서]]></summary>
-        <author>
-            <name>빨간고래(박정아)</name>
-        </author>
-        <author>
-            <name>윤이사라(포완카)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실전에서 바로 쓰는 Next.js]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1068448075</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1068448075"/>
-        <updated>2023-01-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SSR부터 SEO, 배포까지 확장성 높은 풀스택 서비스 구축 가이드]]></summary>
-        <author>
-            <name>미셸 리바</name>
         </author>
     </entry>
 </feed>
