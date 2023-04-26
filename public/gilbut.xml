@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2023-04-26T01:17:34.431Z</updated>
+    <updated>2023-04-26T06:20:50.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[28개 지역, 135개 동… 대한민국을 한 권에 담았다! 당신에게 필요한 새로운 대동부(富)지도]]></summary>
         <author>
             <name>김지웅(5분임장)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자가 되고 싶습니다]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003723</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003723"/>
+        <updated>2023-04-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[비전공자도 할 수 있는 개발자 취업의 모든 것]]></summary>
+        <author>
+            <name>앨런</name>
         </author>
     </entry>
     <entry>
@@ -190,15 +200,6 @@
         </author>
         <author>
             <name>임현근</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 절세 무작정 따라하기]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003704</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003704"/>
-        <updated>2023-04-05T00:00:00.000Z</updated>
-        <author>
-            <name>박민수(제네시스)</name>
         </author>
     </entry>
 </feed>
