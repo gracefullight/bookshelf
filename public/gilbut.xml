@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2023-04-28T06:20:32.784Z</updated>
+    <updated>2023-04-28T12:29:25.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -91,25 +91,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[통역의 바이블]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003705</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003705"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[통번역 전공자와 비즈니스 실무자를 위한 국제회의 전문 용어·교양·상식]]></summary>
-        <author>
-            <name>임종령</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시나공 JLPT 일본어능력시험  N4 문법/문자·어휘]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003700</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003700"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <author>
-            <name>김정은</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[챗GPT 거부할 수 없는 미래]]></title>
         <id>https://www.gilbut.co.kr/book/view?bookcode=BN003718</id>
         <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003718"/>
@@ -120,9 +101,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[통역의 바이블]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003705</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003705"/>
+        <updated>2023-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[통번역 전공자와 비즈니스 실무자를 위한 국제회의 전문 용어·교양·상식]]></summary>
+        <author>
+            <name>임종령</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[시나공 JLPT 일본어능력시험  N5 문법/문자·어휘]]></title>
         <id>https://www.gilbut.co.kr/book/view?bookcode=BN003701</id>
         <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003701"/>
+        <updated>2023-04-20T00:00:00.000Z</updated>
+        <author>
+            <name>김정은</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시나공 JLPT 일본어능력시험  N4 문법/문자·어휘]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003700</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003700"/>
         <updated>2023-04-20T00:00:00.000Z</updated>
         <author>
             <name>김정은</name>
