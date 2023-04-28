@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.acornpub.co.kr/book/new</id>
     <title>acorn</title>
-    <updated>2023-04-28T01:19:04.739Z</updated>
+    <updated>2023-04-28T06:20:30.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -121,7 +121,7 @@
         <updated>2023-03-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[금융 모델에 대한 공리적 접근을 지양하고 수학에 치중하는 학계와 고정 관념을 갖는 트레이더 사이에 균형 잡힌 감각으로 모델에서 나오는 통찰과 실제 운용의 실용성을 결합해 변동성 스마일을 설명한다.]]></summary>
         <author>
-            <name>이매뉴얼 더만 외 2명</name>
+            <name>이매뉴얼 더만(Emanuel Derman) 외 2명</name>
         </author>
     </entry>
     <entry>
