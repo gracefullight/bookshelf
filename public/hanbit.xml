@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-05-03T01:19:37.121Z</updated>
+    <updated>2023-05-03T06:20:16.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -35,6 +35,16 @@
         </author>
         <author>
             <name>마쓰무라 유야</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것이 C#이다(3판)]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4336689405</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4336689405"/>
+        <updated>2023-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[단계별 학습으로 탄탄한 기본기를 다져줄 C# 입문서]]></summary>
+        <author>
+            <name>박상현</name>
         </author>
     </entry>
     <entry>
@@ -247,16 +257,6 @@
         </author>
         <author>
             <name>김신애</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이것이 리눅스다(3판)]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2652828203</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2652828203"/>
-        <updated>2023-02-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[실무와 유사한 가상머신 환경에서 배우는 리눅스 서버]]></summary>
-        <author>
-            <name>우재남</name>
         </author>
     </entry>
 </feed>
