@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-05-11T01:18:15.339Z</updated>
+    <updated>2023-05-11T06:20:16.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -55,6 +55,19 @@
         <summary type="html"><![CDATA[업무 스킬업부터 자기 계발까지! 694개 ChatGPT 파워 프롬프트 가이드 | 추가 프롬프트 치트시트 부록 제공]]></summary>
         <author>
             <name>이안 클레이턴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팀 개발을 위한 Git, GitHub 시작하기(개정판)]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4797999461</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4797999461"/>
+        <updated>2023-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[소스 코드 버전 관리를 위한 깃·깃허브, 오픈 소스 참여]]></summary>
+        <author>
+            <name>정호영</name>
+        </author>
+        <author>
+            <name>진유림</name>
         </author>
     </entry>
     <entry>
@@ -246,16 +259,6 @@
         </author>
         <author>
             <name>아사노 유이치</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FastAPI를 사용한 파이썬 웹 개발]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9703548802</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9703548802"/>
-        <updated>2023-03-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[라우팅 기초부터 이벤트 플래너 애플리케이션 구축 및 배포까지 I 윈도우/리눅스 명령어 제공]]></summary>
-        <author>
-            <name>압둘라지즈 압둘라지즈 아데시나</name>
         </author>
     </entry>
 </feed>
