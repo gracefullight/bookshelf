@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-05-25T18:19:09.495Z</updated>
+    <updated>2023-05-26T01:19:02.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -37,7 +37,7 @@
         <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6457133957"/>
         <updated>2023-05-30T00:00:00.000Z</updated>
         <author>
-            <name>아이리스 클래슨</name>
+            <name>아이리스 클라슨</name>
         </author>
     </entry>
     <entry>
