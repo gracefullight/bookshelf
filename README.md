@@ -6,7 +6,7 @@ This tool is intended for personal use and educational purposes only.
 ## Installation
 
 - Clone this repository.
-- Install dependencies by running npm install or yarn install.
+- Install dependencies by running pnpm install
 
 ## Usage
 
