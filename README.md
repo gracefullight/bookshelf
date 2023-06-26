@@ -13,7 +13,7 @@ This tool is intended for personal use and educational purposes only.
 Run the following command to collect book information and generate RSS feeds:
 
 ```sh
-yarn cmd collect --site <site1> --site <site2> ...
+pnpm cmd collect --site <site1> --site <site2> ...
 ```
 
 Replace `<site>` with one or more in the `src/plugins`
