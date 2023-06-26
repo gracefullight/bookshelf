@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2023-06-26T06:06:38.179Z</updated>
+    <updated>2023-06-26T12:05:16.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,19 @@
         <summary type="html"><![CDATA[더 좋아 보이는 브랜드 디자인의 비밀]]></summary>
         <author>
             <name>최영인</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초등학생을 위한 영상 촬영+편집 무작정 따라하기]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003766</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003766"/>
+        <updated>2023-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[혼자서도 척척!]]></summary>
+        <author>
+            <name>이상권</name>
+        </author>
+        <author>
+            <name>정일용</name>
         </author>
     </entry>
     <entry>
@@ -68,6 +81,25 @@
         <updated>2023-06-22T00:00:00.000Z</updated>
         <author>
             <name>뚝딱이형</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불안을 이기는 철학]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003767</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003767"/>
+        <updated>2023-06-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[나를 단단하게 만드는 열네 번의 스토아 수업]]></summary>
+        <author>
+            <name>브리지드 딜레이니</name>
+        </author>
+        <author>
+            <name>브리지드 딜레이니</name>
+        </author>
+        <author>
+            <name>조율리</name>
+        </author>
+        <author>
+            <name>조율리</name>
         </author>
     </entry>
     <entry>
@@ -138,28 +170,6 @@
         <updated>2023-06-07T00:00:00.000Z</updated>
         <author>
             <name>이경숙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무작정 따라하기 후쿠오카(2023-2024 최신판)]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003751</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003751"/>
-        <updated>2023-05-31T00:00:00.000Z</updated>
-        <author>
-            <name>두경아</name>
-        </author>
-        <author>
-            <name>전상현</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상의 빈칸]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003749</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003749"/>
-        <updated>2023-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[당신의 생활 속에 반짝이는 크리에이티브 조각들]]></summary>
-        <author>
-            <name>최장순</name>
         </author>
     </entry>
 </feed>
