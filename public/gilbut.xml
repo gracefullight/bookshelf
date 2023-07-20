@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2023-07-20T00:15:32.839Z</updated>
+    <updated>2023-07-20T12:06:42.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -72,7 +72,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백엔드 입문자를 위한 모던 자바스크립트&Node.js 프로그래밍]]></title>
+        <title type="html"><![CDATA[백엔드 입문자를 위한 모던 자바스크립트&Node.js]]></title>
         <id>https://www.gilbut.co.kr/book/view?bookcode=BN003787</id>
         <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003787"/>
         <updated>2023-07-13T00:00:00.000Z</updated>
