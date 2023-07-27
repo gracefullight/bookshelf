@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2023-07-27T00:13:34.800Z</updated>
+    <updated>2023-07-27T12:05:10.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -111,6 +111,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[10대부터 읽는 머니 스쿨]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003779</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003779"/>
+        <updated>2023-07-20T00:00:00.000Z</updated>
+        <author>
+            <name>마커스 위크스</name>
+        </author>
+        <author>
+            <name>송보라</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[그림으로 이해하는 네트워크 구조와 기술]]></title>
         <id>https://www.gilbut.co.kr/book/view?bookcode=BN003788</id>
         <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003788"/>
@@ -121,18 +133,6 @@
         </author>
         <author>
             <name>김성훈</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10대부터 읽는 머니 스쿨]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003779</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003779"/>
-        <updated>2023-07-20T00:00:00.000Z</updated>
-        <author>
-            <name>마커스 위크스</name>
-        </author>
-        <author>
-            <name>송보라</name>
         </author>
     </entry>
     <entry>
