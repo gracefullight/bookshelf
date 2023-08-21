@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-08-21T00:13:10.128Z</updated>
+    <updated>2023-08-21T12:05:35.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,22 @@
         <summary type="html"><![CDATA[건축, 인테리어, 기계 실무 도면 기본기 완성]]></summary>
         <author>
             <name>심미현</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상상을 실현하는 로블록스 게임 만들기]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3782084613</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3782084613"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[스튜디오 사용법부터 수익화까지, 로블록스 게임 제작의 모든 것]]></summary>
+        <author>
+            <name>강태훈</name>
+        </author>
+        <author>
+            <name>장준하</name>
+        </author>
+        <author>
+            <name>D.LAB</name>
         </author>
     </entry>
     <entry>
@@ -205,15 +221,6 @@
         <summary type="html"><![CDATA[장고 모델링과 마이그레이션부터 쿼리셋, DRF까지]]></summary>
         <author>
             <name>김성렬</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복붙 개발자의 벼락 성공기]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6457133957</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6457133957"/>
-        <updated>2023-05-30T00:00:00.000Z</updated>
-        <author>
-            <name>아이리스 클라슨</name>
         </author>
     </entry>
 </feed>
