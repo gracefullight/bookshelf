@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-09-05T00:13:03.990Z</updated>
+    <updated>2023-09-05T12:05:37.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -124,6 +124,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[챗GPT 개발자 핸드북]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5540360041</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5540360041"/>
+        <updated>2023-07-31T00:00:00.000Z</updated>
+        <author>
+            <name>주한나</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[관찰 가능성 엔지니어링]]></title>
         <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1273787042</id>
         <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1273787042"/>
@@ -217,16 +226,6 @@
         <summary type="html"><![CDATA[VLOOKUP을 알아도 여전히 헤매는 당신을 위한 엑셀 실전서]]></summary>
         <author>
             <name>전미진</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 웹 개발을 위한 가이드]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1646599905</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1646599905"/>
-        <updated>2023-06-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[프런트엔드 웹 개발 라이프 사이클의 이해부터 효율적인 웹사이트 구축까지]]></summary>
-        <author>
-            <name>고승원</name>
         </author>
     </entry>
 </feed>
