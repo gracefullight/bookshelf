@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2023-09-11T00:13:17.565Z</updated>
+    <updated>2023-09-11T12:05:11.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -87,19 +87,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역노화]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003824</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003824"/>
-        <updated>2023-08-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[젊게 오래 사는 미래가 온다]]></summary>
-        <author>
-            <name>세르게이 영</name>
-        </author>
-        <author>
-            <name>이진구</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스트리트 코더]]></title>
         <id>https://www.gilbut.co.kr/book/view?bookcode=BN003842</id>
         <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003842"/>
@@ -110,6 +97,19 @@
         </author>
         <author>
             <name>이준용</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역노화]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003824</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003824"/>
+        <updated>2023-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[젊게 오래 사는 미래가 온다]]></summary>
+        <author>
+            <name>세르게이 영</name>
+        </author>
+        <author>
+            <name>이진구</name>
         </author>
     </entry>
     <entry>
