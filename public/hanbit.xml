@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-09-18T12:05:41.662Z</updated>
+    <updated>2023-09-19T00:13:28.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -16,7 +16,7 @@
         <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2638775619</id>
         <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2638775619"/>
         <updated>2023-10-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AutoKeras 창시자가 안내하는, AutoKeras와 KerasTuner로 머신러닝]]></summary>
+        <summary type="html"><![CDATA[AutoKeras 창시자가 안내하는, AutoKeras와 KerasTuner로 머신러닝 파이프라인 최적화하기]]></summary>
         <author>
             <name>칭취안 송</name>
         </author>
