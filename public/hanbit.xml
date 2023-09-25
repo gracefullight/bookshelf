@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-09-25T00:13:30.963Z</updated>
+    <updated>2023-09-25T12:05:56.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -74,6 +74,16 @@
         </author>
         <author>
             <name>김병수</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자를 위한 실전 선형대수학]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4279863215</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4279863215"/>
+        <updated>2023-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[파이썬 3.10 버전 대응, 구글 코랩 실습 가능 I  연습 문제 + 해답+ 해설 영상, 무료 샘플북 제공]]></summary>
+        <author>
+            <name>마이크 X 코헨</name>
         </author>
     </entry>
     <entry>
@@ -225,16 +235,6 @@
         <summary type="html"><![CDATA[일상 속 숨겨진 디자인의 비밀]]></summary>
         <author>
             <name>김성연</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육각형 개발자]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7230685099</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7230685099"/>
-        <updated>2023-07-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[시니어 개발자로 성장하기 위한 10가지 핵심 역량]]></summary>
-        <author>
-            <name>최범균</name>
         </author>
     </entry>
 </feed>
