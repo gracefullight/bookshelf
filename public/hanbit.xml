@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-11-02T00:13:43.364Z</updated>
+    <updated>2023-11-02T12:05:23.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -29,6 +29,16 @@
         <summary type="html"><![CDATA[Microsoft Senior CA 유저스틴, 유튜버 일잘러 장피엠 특별 인터뷰 수록]]></summary>
         <author>
             <name>필 사이먼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[처음 배우는 애저(2판)]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4493734490</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4493734490"/>
+        <updated>2023-11-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[애저 기초부터 클라우드 서비스 구축까지]]></summary>
+        <author>
+            <name>김도균</name>
         </author>
     </entry>
     <entry>
@@ -220,16 +230,6 @@
         <summary type="html"><![CDATA[문제 해결 능력을 키우는 컴퓨팅 사고부터 알고리즘, 데이터 분석, 머신러닝까지]]></summary>
         <author>
             <name>존 V. 구태그</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리에이티브 프로그래머]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9118256924</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9118256924"/>
-        <updated>2023-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[프로그래밍에 창의성을 더하는 7가지 사고력]]></summary>
-        <author>
-            <name>바우테르 흐루네벨트</name>
         </author>
     </entry>
 </feed>
