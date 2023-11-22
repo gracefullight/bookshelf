@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-11-22T00:14:30.431Z</updated>
+    <updated>2023-11-22T12:05:29.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,16 @@
         <summary type="html"><![CDATA[대규모 웹 분산 시스템을 위한 운영 고려 설계 | 아마존 소프트웨어 공학 분야 베스트셀러]]></summary>
         <author>
             <name>마이클 나이가드</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로덕트]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5541477407</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5541477407"/>
+        <updated>2023-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[유저를 사로잡는 서비스 기획의 모든 것]]></summary>
+        <author>
+            <name>홍석희</name>
         </author>
     </entry>
     <entry>
@@ -220,16 +230,6 @@
         </author>
         <author>
             <name>김병수</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자를 위한 실전 선형대수학]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4279863215</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4279863215"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[파이썬 3.10 버전 대응, 구글 코랩 실습 가능 I  연습 문제 + 해답+ 해설 영상, 무료 샘플북 제공]]></summary>
-        <author>
-            <name>마이크 X 코헨</name>
         </author>
     </entry>
 </feed>
