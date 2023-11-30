@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-11-29T12:05:37.301Z</updated>
+    <updated>2023-11-30T00:14:07.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -16,7 +16,7 @@
         <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3517292048</id>
         <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3517292048"/>
         <updated>2023-12-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[효과적인 데이터 활용을 위한 데이터 메시 도입 가이드 I 데이터 메시 창시자 집필]]></summary>
+        <summary type="html"><![CDATA[효과적인 데이터 활용을 위한 데이터 메시 도입 가이드]]></summary>
         <author>
             <name>세막 데그하니</name>
         </author>
@@ -36,7 +36,7 @@
         <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1820128661</id>
         <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1820128661"/>
         <updated>2023-11-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[대규모 웹 분산 시스템을 위한 운영 고려 설계 | 아마존 소프트웨어 공학 분야 베스트셀러]]></summary>
+        <summary type="html"><![CDATA[대규모 웹 분산 시스템을 위한 운영 고려 설계]]></summary>
         <author>
             <name>마이클 나이가드</name>
         </author>
