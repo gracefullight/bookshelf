@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2023-12-05T00:14:11.462Z</updated>
+    <updated>2023-12-05T12:05:46.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -25,6 +25,38 @@
         </author>
         <author>
             <name>스즈키 히로시</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자 오늘도 마음 튼튼하게 성장하기]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003935</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003935"/>
+        <updated>2023-12-13T00:00:00.000Z</updated>
+        <author>
+            <name>피오다르 서재나베츠</name>
+        </author>
+        <author>
+            <name>이미령</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 시나공 컴퓨터활용능력 2급 실기 총정리]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003937</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003937"/>
+        <updated>2023-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[모의고사 PDF + 동영상 강의]]]></summary>
+        <author>
+            <name>길벗알앤디</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 시나공 컴퓨터활용능력 1급 실기 총정리]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003936</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003936"/>
+        <updated>2023-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[모의고사 PDF + 동영상 강의]]]></summary>
+        <author>
+            <name>길벗알앤디</name>
         </author>
     </entry>
     <entry>
@@ -160,35 +192,6 @@
         </author>
         <author>
             <name>김의석</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실전 피그마]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003902</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003902"/>
-        <updated>2023-11-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UI/UX 디자이너, 서비스 기획자를 위한 실무 입문서]]></summary>
-        <author>
-            <name>김범용</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이티브는 쉬운 영어로 말한다 200대화편(2023)]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003121</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003121"/>
-        <updated>2023-11-20T00:00:00.000Z</updated>
-        <author>
-            <name>구슬</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 시나공 컴퓨터활용능력 1급 실기 기본서]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003906</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003906"/>
-        <updated>2023-11-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[기출문제집 + 동영상 강의]]]></summary>
-        <author>
-            <name>길벗알앤디</name>
         </author>
     </entry>
 </feed>
