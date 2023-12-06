@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2023-12-06T00:14:05.346Z</updated>
+    <updated>2023-12-06T12:05:33.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -25,6 +25,16 @@
         </author>
         <author>
             <name>스즈키 히로시</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[관계의  언어]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003939</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003939"/>
+        <updated>2023-12-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[나를 잃지 않고 관계를 회복하는 마음 헤아리기 심리학]]></summary>
+        <author>
+            <name>문요한</name>
         </author>
     </entry>
     <entry>
@@ -82,6 +92,19 @@
         <summary type="html"><![CDATA[종목 선정부터 거래량, 호가창 분석, 매매 타이밍 잡는 검색식까지!]]></summary>
         <author>
             <name>책전주식</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[효율적인 리눅스 명령어 사용의 기술]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003940</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003940"/>
+        <updated>2023-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[더 빠르고, 스마트하고, 효율적인 커맨드 라인 작업 스킬]]></summary>
+        <author>
+            <name>대니얼 J. 바렛</name>
+        </author>
+        <author>
+            <name>심효섭</name>
         </author>
     </entry>
     <entry>
@@ -166,32 +189,6 @@
         <summary type="html"><![CDATA[[모의고사 PDF + 동영상 강의]]]></summary>
         <author>
             <name>길벗알앤디</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕하세요, 오늘부터 매니저입니다]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003912</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003912"/>
-        <updated>2023-11-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[개발자에서 매니저로: 조직을 성장시키며 쌓아온 매니지먼트의 기술]]></summary>
-        <author>
-            <name>윌 라슨</name>
-        </author>
-        <author>
-            <name>장현희</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해결 할 프로덕트]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003904</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003904"/>
-        <updated>2023-11-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[임팩트 하나만 만들어라]]></summary>
-        <author>
-            <name>에티엔 가르부글리(Étienne Garbugli)</name>
-        </author>
-        <author>
-            <name>김의석</name>
         </author>
     </entry>
 </feed>

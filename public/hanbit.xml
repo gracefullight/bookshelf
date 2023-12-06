@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-12-06T00:14:19.090Z</updated>
+    <updated>2023-12-06T12:05:43.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -96,10 +96,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헤드 퍼스트 C# : 모던한 객체지향 C# 가이드! .NET과 유니티로 배우는 실전 프로그래밍 지침서(4판)]]></title>
+        <title type="html"><![CDATA[헤드 퍼스트 C#(4판)]]></title>
         <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3916701531</id>
         <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3916701531"/>
         <updated>2023-11-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[모던한 객체지향 C# 가이드! .NET과 유니티로 배우는 실전 프로그래밍 지침서]]></summary>
         <author>
             <name>앤드류 스텔만</name>
         </author>
