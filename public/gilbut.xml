@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2023-12-11T00:14:46.962Z</updated>
+    <updated>2023-12-11T12:05:46.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -47,6 +47,21 @@
         </author>
         <author>
             <name>이미령</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야무진 아이의 안전한 스마트폰 생활]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003945</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003945"/>
+        <updated>2023-12-12T00:00:00.000Z</updated>
+        <author>
+            <name>스즈키 토모코</name>
+        </author>
+        <author>
+            <name>송소정</name>
+        </author>
+        <author>
+            <name>사카모토 아키라</name>
         </author>
     </entry>
     <entry>
@@ -178,19 +193,6 @@
         <updated>2023-11-30T00:00:00.000Z</updated>
         <author>
             <name>이규환</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초등학생을 위한 디지털 드로잉 무작정 따라하기]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN003928</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN003928"/>
-        <updated>2023-11-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[혼자서도 척척!]]></summary>
-        <author>
-            <name>권동균</name>
-        </author>
-        <author>
-            <name>김수민</name>
         </author>
     </entry>
 </feed>
