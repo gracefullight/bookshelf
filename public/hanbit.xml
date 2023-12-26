@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2023-12-26T00:13:48.628Z</updated>
+    <updated>2023-12-26T12:05:24.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -29,6 +29,37 @@
         <summary type="html"><![CDATA[제품과 서비스, 그리고 현장 중심 실무 가이드]]></summary>
         <author>
             <name>맷 르메이</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헤드 퍼스트 자바(3판)]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4988031598</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4988031598"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <author>
+            <name>케이시 시에라</name>
+        </author>
+        <author>
+            <name>버트 베이츠</name>
+        </author>
+        <author>
+            <name>트리샤 지</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컴퓨터 시스템 딥 다이브]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4909347865</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4909347865"/>
+        <updated>2023-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[C 언어부터 어셈블리, 아키텍처, OS까지 한 꺼풀씩 벗겨보는 컴퓨터 시스템]]></summary>
+        <author>
+            <name>수잰 J. 매슈스</name>
+        </author>
+        <author>
+            <name>티아 뉴홀</name>
+        </author>
+        <author>
+            <name>케빈 C. 웹</name>
         </author>
     </entry>
     <entry>
@@ -202,26 +233,6 @@
         <summary type="html"><![CDATA[누구나 쉽게 배우는 알고리즘+자료구조 입문서]]></summary>
         <author>
             <name>코리 알트호프</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터 드리븐 리포트]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5932813354</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5932813354"/>
-        <updated>2023-10-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[상사와 고객을 설득하는 데이터 기반의 의사결정 with 파이썬]]></summary>
-        <author>
-            <name>이상석</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우아한 타입스크립트 with 리액트]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6712127691</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6712127691"/>
-        <updated>2023-10-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[배달의민족 개발 사례로 살펴보는 우아한형제들의 타입스크립트와 리액트 활용법]]></summary>
-        <author>
-            <name>우아한형제들 웹프론트개발그룹</name>
         </author>
     </entry>
 </feed>
