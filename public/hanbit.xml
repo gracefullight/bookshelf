@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-01-04T00:14:32.536Z</updated>
+    <updated>2024-01-04T12:05:36.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,26 @@
         <summary type="html"><![CDATA[자바스크립트 개념, 스코프와 클로저]]></summary>
         <author>
             <name>카일 심슨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조코딩의 챗GPT API를 활용한 수익형 웹 서비스 만들기]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6931916070</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6931916070"/>
+        <updated>2024-01-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[챗GPT API, JavaScript, AWS, Node.js를 활용한 웹 서비스 개발]]></summary>
+        <author>
+            <name>조동근(조코딩)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보고서 차트 실무 강의 with 엑셀]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6923470716</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6923470716"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[엑셀 왕초보도 실무에서 바로 써먹을 수 있는 보고서 차트 작성의 기술]]></summary>
+        <author>
+            <name>최성호</name>
         </author>
     </entry>
     <entry>
@@ -213,26 +233,6 @@
         <summary type="html"><![CDATA[마이크로소프트 MVP & 프레젠테이션 디자이너에게 1:1로 배우는]]></summary>
         <author>
             <name>윤상림(윤피티)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노코드/로우코드(No Code, Low Code)]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6361136908</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6361136908"/>
-        <updated>2023-11-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Senior CA 유저스틴, 유튜버 일잘러 장피엠 특별 인터뷰 수록]]></summary>
-        <author>
-            <name>필 사이먼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[처음 배우는 애저(2판)]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4493734490</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4493734490"/>
-        <updated>2023-11-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[애저 기초부터 클라우드 서비스 구축까지]]></summary>
-        <author>
-            <name>김도균</name>
         </author>
     </entry>
 </feed>
