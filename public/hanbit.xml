@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-01-05T00:14:26.387Z</updated>
+    <updated>2024-01-05T12:05:51.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,16 @@
         <summary type="html"><![CDATA[자바스크립트 개념, 스코프와 클로저]]></summary>
         <author>
             <name>카일 심슨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것이 취업을 위한 백엔드 개발이다 with 자바]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9912985019</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9912985019"/>
+        <updated>2024-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[취업과 이직을 결정하는 백엔드 과제 테스트+기술 면접 가이드]]></summary>
+        <author>
+            <name>이준형</name>
         </author>
     </entry>
     <entry>
@@ -223,16 +233,6 @@
         <summary type="html"><![CDATA[퍼스널 브랜딩으로 회사 밖에서 돈을 담는 법]]></summary>
         <author>
             <name>김동석</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤피티의 프레젠테이션 디자인 실무 강의 with 파워포인트]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1101011547</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1101011547"/>
-        <updated>2023-11-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[마이크로소프트 MVP & 프레젠테이션 디자이너에게 1:1로 배우는]]></summary>
-        <author>
-            <name>윤상림(윤피티)</name>
         </author>
     </entry>
 </feed>
