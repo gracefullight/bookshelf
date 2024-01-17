@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-01-17T00:14:13.309Z</updated>
+    <updated>2024-01-17T12:05:51.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,19 @@
         <summary type="html"><![CDATA[머티리얼과 블루프린트 기초부터 물리 기반 애니메이션 적용까지]]></summary>
         <author>
             <name>쇼다 츠야노</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자를 위한 최소한의 실무 지식]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7551603415</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7551603415"/>
+        <updated>2024-01-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[현장에서 바로 써먹는 40가지 핵심 기술]]></summary>
+        <author>
+            <name>김현정</name>
+        </author>
+        <author>
+            <name>이재효</name>
         </author>
     </entry>
     <entry>
@@ -220,19 +233,6 @@
         </author>
         <author>
             <name>윈델 H. 오스케이</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤드 퍼스트 C#(4판)]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3916701531</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3916701531"/>
-        <updated>2023-11-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[모던한 객체지향 C# 가이드! .NET과 유니티로 배우는 실전 프로그래밍 지침서]]></summary>
-        <author>
-            <name>앤드류 스텔만</name>
-        </author>
-        <author>
-            <name>제니퍼 그린</name>
         </author>
     </entry>
 </feed>
