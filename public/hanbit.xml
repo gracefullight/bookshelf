@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-02-26T00:13:47.835Z</updated>
+    <updated>2024-02-26T12:05:26.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -22,6 +22,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[실무로 통하는 인과추론 with 파이썬]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6208936856</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6208936856"/>
+        <updated>2024-03-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[데이터 분석에서 정책 수립까지, 이론과 사례 연구를 통한 실용적인 학습법]]></summary>
+        <author>
+            <name>마테우스 파쿠레</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한 권으로 끝내는 이미지 생성 AI with 미드저니]]></title>
         <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6472698329</id>
         <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6472698329"/>
@@ -32,6 +42,19 @@
         </author>
         <author>
             <name>백승호</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멀티모달 생성 AI 인사이드]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9155744064</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9155744064"/>
+        <updated>2024-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[멀티모달 생성 AI의 개념부터 활용 전략과 미래 전망까지]]></summary>
+        <author>
+            <name>홍정한</name>
+        </author>
+        <author>
+            <name>변형균</name>
         </author>
     </entry>
     <entry>
@@ -218,31 +241,6 @@
         <summary type="html"><![CDATA[게임 캐릭터, 배경 생성부터 ChatGPT 연동까지]]></summary>
         <author>
             <name>크로노스 크라운 야나이 마사카즈</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로덕트 매니지먼트의 기술]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5712658698</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5712658698"/>
-        <updated>2024-01-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[제품과 서비스, 그리고 현장 중심 실무 가이드]]></summary>
-        <author>
-            <name>맷 르메이</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤드 퍼스트 자바(3판)]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4988031598</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4988031598"/>
-        <updated>2024-01-02T00:00:00.000Z</updated>
-        <author>
-            <name>케이시 시에라</name>
-        </author>
-        <author>
-            <name>버트 베이츠</name>
-        </author>
-        <author>
-            <name>트리샤 지</name>
         </author>
     </entry>
 </feed>
