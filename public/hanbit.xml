@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-03-07T12:05:52.805Z</updated>
+    <updated>2024-03-08T00:14:05.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -62,16 +62,6 @@
         <summary type="html"><![CDATA[핵심 기능을 담은 기본편 + 실무 예제가 풍부한 활용편]]></summary>
         <author>
             <name>빨간고래(박정아)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1학년 한글 떼기-개정판]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4250378127</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4250378127"/>
-        <updated>2024-03-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[30일 만에 완성하는]]></summary>
-        <author>
-            <name>하유정</name>
         </author>
     </entry>
     <entry>
@@ -241,6 +231,19 @@
         <summary type="html"><![CDATA[머티리얼과 블루프린트 기초부터 물리 기반 애니메이션 적용까지]]></summary>
         <author>
             <name>쇼다 츠야노</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자를 위한 최소한의 실무 지식]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7551603415</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7551603415"/>
+        <updated>2024-01-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[현장에서 바로 써먹는 40가지 핵심 기술]]></summary>
+        <author>
+            <name>김현정</name>
+        </author>
+        <author>
+            <name>이재효</name>
         </author>
     </entry>
 </feed>
