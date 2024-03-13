@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-03-13T00:13:36.696Z</updated>
+    <updated>2024-03-13T12:06:03.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,22 @@
         <summary type="html"><![CDATA[다리, 터널, 도로, 통신망, 전력망, 철도, 댐, 상하수도, 건설 장비까지 우리 주변을 둘러싼 인프라의 모든 것]]></summary>
         <author>
             <name>그레이디 힐하우스</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맛있는 디자인 프리미어 프로 CC 2024]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1783384719</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1783384719"/>
+        <updated>2024-03-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[쉽게 배워 제대로 써먹는 유튜브 영상 편집]]></summary>
+        <author>
+            <name>심수진</name>
+        </author>
+        <author>
+            <name>윤성우</name>
+        </author>
+        <author>
+            <name>김덕영</name>
         </author>
     </entry>
     <entry>
@@ -231,16 +247,6 @@
         <summary type="html"><![CDATA[직접 구현하며 익히는 강화 학습 알고리즘]]></summary>
         <author>
             <name>사이토 고키</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따라 하며 배우는 언리얼 엔진 5 입문]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7023063052</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7023063052"/>
-        <updated>2024-01-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[머티리얼과 블루프린트 기초부터 물리 기반 애니메이션 적용까지]]></summary>
-        <author>
-            <name>쇼다 츠야노</name>
         </author>
     </entry>
 </feed>
