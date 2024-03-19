@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-03-19T00:13:55.307Z</updated>
+    <updated>2024-03-19T12:06:00.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,16 @@
         <summary type="html"><![CDATA[애플리케이션을 직접 만들어보며 익히는 스프링 기본기와 실무 스킬]]></summary>
         <author>
             <name>토키 코헤이</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자 기술 면접 노트]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5491056069</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5491056069"/>
+        <updated>2024-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[18년 차 카카오 면접관의 빅테크 기업 취업/이직 가이드]]></summary>
+        <author>
+            <name>이남희</name>
         </author>
     </entry>
     <entry>
@@ -234,16 +244,6 @@
         </author>
         <author>
             <name>이수정</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust Atomics and Locks 러스트 동시성 프로그래밍]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1477259158</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1477259158"/>
-        <updated>2024-01-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Atomic과 Lock으로 안전하고 효율적인 동시성 코드 작성하기]]></summary>
-        <author>
-            <name>마라 보스</name>
         </author>
     </entry>
 </feed>
