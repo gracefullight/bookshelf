@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-03-20T00:13:11.463Z</updated>
+    <updated>2024-03-20T12:05:38.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -68,6 +68,16 @@
         </author>
         <author>
             <name>김덕영</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챗GPT API를 활용한 챗봇 만들기]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7331179801</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7331179801"/>
+        <updated>2024-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[5일 만에 배우는 AI 챗봇 개발의 모든것]]></summary>
+        <author>
+            <name>이승우</name>
         </author>
     </entry>
     <entry>
@@ -225,25 +235,6 @@
         </author>
         <author>
             <name>윤이사라(포완카)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맛있는 디자인 프리미어 프로&애프터 이펙트 CC 2024]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3338081200</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3338081200"/>
-        <updated>2024-01-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[누구나 쉽게 배워 제대로 써먹는 그래픽 입문서]]></summary>
-        <author>
-            <name>김덕영</name>
-        </author>
-        <author>
-            <name>심수진</name>
-        </author>
-        <author>
-            <name>윤성우</name>
-        </author>
-        <author>
-            <name>이수정</name>
         </author>
     </entry>
 </feed>

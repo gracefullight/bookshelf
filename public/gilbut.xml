@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2024-03-20T00:13:04.096Z</updated>
+    <updated>2024-03-20T12:05:29.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -24,6 +24,19 @@
         </author>
         <author>
             <name>신현호</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지적인 어른을 위한 최소한의 교양수업]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN004040</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN004040"/>
+        <updated>2024-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[평생의 무기가 되는 5가지 불변의 지식]]></summary>
+        <author>
+            <name>사이토 다카시</name>
+        </author>
+        <author>
+            <name>신찬</name>
         </author>
     </entry>
     <entry>
@@ -173,15 +186,6 @@
         </author>
         <author>
             <name>노태복</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자가 영어도 잘해야 하나요?]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN004002</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN004002"/>
-        <updated>2024-02-20T00:00:00.000Z</updated>
-        <author>
-            <name>최희철</name>
         </author>
     </entry>
 </feed>
