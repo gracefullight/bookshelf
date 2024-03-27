@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-03-27T00:13:17.212Z</updated>
+    <updated>2024-03-27T12:05:44.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,19 @@
         <summary type="html"><![CDATA[하나의 웹사이트를 구현하며 익히는 자바스크립트 입문]]></summary>
         <author>
             <name>Mana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것이 자바다(3판)]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1795688037</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1795688037"/>
+        <updated>2024-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[교육 현장에서 가장 많이 쓰이는 JAVA 프로그래밍 기본서]]></summary>
+        <author>
+            <name>신용권</name>
+        </author>
+        <author>
+            <name>임경균</name>
         </author>
     </entry>
     <entry>
@@ -223,16 +236,6 @@
         </author>
         <author>
             <name>조 파파</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉽고 빠르게 익히는 실전 LLM]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7077705203</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7077705203"/>
-        <updated>2024-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT 활용부터 LLM 파인튜닝, 임베딩, 고급 프롬프트 엔지니어링까지]]></summary>
-        <author>
-            <name>시난 오즈데미르</name>
         </author>
     </entry>
 </feed>
