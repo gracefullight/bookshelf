@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2024-04-12T00:13:49.002Z</updated>
+    <updated>2024-04-12T12:05:22.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -31,6 +31,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코드 작성 가이드]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN004068</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN004068"/>
+        <updated>2024-04-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[현직 LINE 개발자가 알려주는 읽기 쉽고 코드 리뷰하기 좋은]]></summary>
+        <author>
+            <name>이시가와 무네토시</name>
+        </author>
+        <author>
+            <name>정기욱</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애프터 스티브 잡스]]></title>
         <id>https://www.gilbut.co.kr/book/view?bookcode=BN004044</id>
         <link href="https://www.gilbut.co.kr/book/view?bookcode=BN004044"/>
@@ -41,6 +54,15 @@
         </author>
         <author>
             <name>이진원</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나와의 워크숍]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN004067</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN004067"/>
+        <updated>2024-03-28T00:00:00.000Z</updated>
+        <author>
+            <name>김해리</name>
         </author>
     </entry>
     <entry>
@@ -158,25 +180,6 @@
         <summary type="html"><![CDATA[[엑셀 함수 사전 + 계산 문제]]]></summary>
         <author>
             <name>길벗알앤디</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 시나공 퀵이지 컴퓨터활용능력 1급 필기+실기 통합본 단기완성]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN004031</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN004031"/>
-        <updated>2024-03-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[엑셀 함수 사전 + 계산 문제]]]></summary>
-        <author>
-            <name>길벗알앤디</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금은, 일본 소도시 여행]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN004020</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN004020"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <author>
-            <name>두경아</name>
         </author>
     </entry>
 </feed>
