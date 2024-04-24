@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-04-24T00:14:02.186Z</updated>
+    <updated>2024-04-24T12:06:21.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,15 @@
         <summary type="html"><![CDATA[지금 바로 실천할 수 있는 선배 개발자의 39가지 노하우 / 국내 개발자 8인 인터뷰 수록]]></summary>
         <author>
             <name>피트 구들리프</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왕초보 판매자도 파워셀러가 되는 네이버 스마트스토어 시작하기(개정2판)]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7502792940</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7502792940"/>
+        <updated>2024-04-30T00:00:00.000Z</updated>
+        <author>
+            <name>서미진</name>
         </author>
     </entry>
     <entry>
@@ -217,16 +226,6 @@
         <summary type="html"><![CDATA[트리 탐색과 메타 휴리스틱으로 완성하는 최적화, C++ 기반 예제 코드 제공]]></summary>
         <author>
             <name>아오키 에이타</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맛있는 디자인 애프터 이펙트 CC 2024]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3003836629</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3003836629"/>
-        <updated>2024-03-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[쉽게 배워 제대로 써먹는 모션 그래픽 영상 디자인]]></summary>
-        <author>
-            <name>이수정</name>
         </author>
     </entry>
 </feed>
