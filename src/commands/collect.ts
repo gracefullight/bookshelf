@@ -1,4 +1,4 @@
-import { setTimeout } from "timers/promises";
+import { setTimeout } from "node:timers/promises";
 
 import { faker } from "@faker-js/faker";
 import { Command, Option } from "clipanion";

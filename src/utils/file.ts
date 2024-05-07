@@ -1,8 +1,8 @@
-import { resolve } from "path";
+import { resolve } from "node:path";
+import { Readable } from "node:stream";
+import type { ReadableStream } from "node:stream/web";
 
 import { createWriteStream, ensureDir, writeFile } from "fs-extra";
-import { Readable } from "stream";
-import type { ReadableStream } from "stream/web";
 
 const outDir = resolve(__dirname, "..", "..", "dist");
 
