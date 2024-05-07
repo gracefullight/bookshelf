@@ -14,7 +14,7 @@ const options: PluginOptions = {
       (span) => {
         const spanText = span.textContent as string;
         const [, y, m, d] =
-          spanText.match(/\| (\d{4})년 (\d{2})월 (\d{2})일 펴냄/) ?? [];
+          RegExp(/\| (\d{4})년 (\d{2})월 (\d{2})일 펴냄/).exec(spanText) ?? [];
         return `${y}-${m}-${d}`;
       },
     ],

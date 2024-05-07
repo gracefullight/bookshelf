@@ -14,7 +14,7 @@ const options: PluginOptions = {
     date: [
       "#main_container .single-project-content small",
       (small) => {
-        const smallText = small.textContent as string;
+        const smallText = String(small.textContent);
         const [, rawDate] = smallText.split("|").map((t) => t.trim());
         return [...rawDate.split("."), "01"].join("-");
       },
@@ -22,7 +22,7 @@ const options: PluginOptions = {
     author: [
       "#main_container .single-project-content small",
       (small) => {
-        const smallText = small.textContent as string;
+        const smallText = String(small.textContent);
         const [author] = smallText.split("|").map((t) => t.trim());
         return author;
       },

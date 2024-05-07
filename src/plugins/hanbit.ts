@@ -16,14 +16,14 @@ const options: PluginOptions = {
     date: [
       "div.store_product_info_box > ul > li:nth-child(2) > span",
       (span) => {
-        const date1Text = span.textContent as string;
+        const date1Text = String(span.textContent);
         if (DateTime.fromISO(date1Text).isValid) {
           return date1Text;
         }
 
         const nextSpan =
           span.parentElement?.nextElementSibling?.querySelector("span");
-        const date2Text = nextSpan?.textContent as string;
+        const date2Text = String(nextSpan?.textContent);
         return date2Text;
       },
       {
@@ -33,7 +33,7 @@ const options: PluginOptions = {
     author: [
       ".sub_book_list .view_box .info p.book_writer",
       (p) => {
-        const pText = p.textContent as string;
+        const pText = String(p.textContent);
         return pText.trim();
       },
     ],

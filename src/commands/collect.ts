@@ -24,7 +24,7 @@ const resourceLoader = new ResourceLoader({
 });
 
 export class CollectCommand extends Command {
-  static paths = [["collect"]];
+  static readonly paths = [["collect"]];
 
   sites = Option.Array("--site", { required: true });
 
@@ -34,7 +34,7 @@ export class CollectCommand extends Command {
         .filter(([key]) => this.sites.includes(key))
         .map(([key, plugin]) => {
           if (plugin.type === "crawl") {
-            return this.handleCrawlPlugin(key, plugin).catch((e: Error) => 
+            return this.handleCrawlPlugin(key, plugin).catch((e: Error) =>
               this.context.stderr.write(`${key}: ${e.message}\n`)
             );
           } else {
@@ -65,7 +65,7 @@ export class CollectCommand extends Command {
       plugin.selectors.url,
       "url"
     );
-    const urls = tempUrls.slice(0, plugin.limit ?? tempUrls.length) as string[];
+    const urls = tempUrls.slice(0, plugin.limit ?? tempUrls.length);
 
     const detailDocumentsCache = plugin.hasDetail
       ? await this.getDetailDocumentsCache(urls)
@@ -178,7 +178,7 @@ export class CollectCommand extends Command {
     const selector = Array.isArray(selectorOrSelectorWithOption)
       ? selectorOrSelectorWithOption[0]
       : selectorOrSelectorWithOption;
-    return [...document.querySelectorAll<HTMLElement>(selector as string)].map(
+    return [...document.querySelectorAll<HTMLElement>(String(selector))].map(
       (element) => {
         switch (selectorKey) {
           case "url":
@@ -210,7 +210,7 @@ export class CollectCommand extends Command {
     const detailDocumentsCache: Record<string, Document> = {};
     await Promise.all(
       urls.map(async (url) => {
-        await setTimeout(faker.datatype.number({ min: 500, max: 2000 }));
+        await setTimeout(faker.number.int({ min: 500, max: 2000 }));
         const detailDom = await JSDOM.fromURL(url, {
           resources: resourceLoader,
         });

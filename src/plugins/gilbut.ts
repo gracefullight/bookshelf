@@ -11,7 +11,7 @@ const options: PluginOptions = {
     date: [
       "#book_list .info .detail",
       (span) => {
-        const spanText = span.textContent as string;
+        const spanText = String(span.textContent);
         const details = spanText
           .split("\n")
           .map((t) => t.trim())
@@ -22,7 +22,7 @@ const options: PluginOptions = {
     author: [
       "#book_list .info .detail",
       (span) => {
-        const spanText = span.textContent as string;
+        const spanText = String(span.textContent);
         const details = spanText
           .split("\n")
           .map((t) => t.trim())
