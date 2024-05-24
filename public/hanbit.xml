@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-05-24T00:14:49.779Z</updated>
+    <updated>2024-05-24T12:05:55.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,16 @@
         <summary type="html"><![CDATA[구글 스프레드시트로 엑셀 밟고 칼퇴하자!!]]></summary>
         <author>
             <name>강남석</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[업무에 활용하는 Node.js]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5038538340</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5038538340"/>
+        <updated>2024-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[웹 애플리케이션 개발로 배우는 Node.js 원리와 실무 가이드]]></summary>
+        <author>
+            <name>이토 고타</name>
         </author>
     </entry>
     <entry>
@@ -210,19 +220,6 @@
         <summary type="html"><![CDATA[다리, 터널, 도로, 통신망, 전력망, 철도, 댐, 상하수도, 건설 장비까지 우리 주변을 둘러싼 인프라의 모든 것]]></summary>
         <author>
             <name>그레이디 힐하우스</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맛있는 디자인 포토샵 CC 2024]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8088939358</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8088939358"/>
-        <updated>2024-03-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[핵심 기능을 담은 기본편+실무 예제가 풍부한 활용편]]></summary>
-        <author>
-            <name>윤이사라(포완카)</name>
-        </author>
-        <author>
-            <name>김신애</name>
         </author>
     </entry>
 </feed>

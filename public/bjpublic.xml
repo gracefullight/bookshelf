@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bjpublic.tistory.com/category/새로%20나온%20책</id>
     <title>bjpublic</title>
-    <updated>2024-05-24T00:14:40.034Z</updated>
+    <updated>2024-05-24T12:05:46.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -85,13 +85,6 @@
         <id>https://bjpublic.tistory.com/512</id>
         <link href="https://bjpublic.tistory.com/512"/>
         <updated>2024-01-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[손 사원의 칼퇴를 위한 파이썬 학습 여정! 웹, 엑셀, 워드, PDF, 이메일 파일&폴더 정리 등의 다양하고 실용적인 ..]]></summary>
-        <author>
-            <name>정용범</name>
-        </author>
-        <author>
-            <name>손상우</name>
-        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[나만 따라와! 로직 프로 팁 100]]></title>
