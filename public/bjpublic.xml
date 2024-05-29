@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bjpublic.tistory.com/category/새로%20나온%20책</id>
     <title>bjpublic</title>
-    <updated>2024-05-28T12:05:45.581Z</updated>
+    <updated>2024-05-29T00:15:01.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -15,7 +15,7 @@
         <title type="html"><![CDATA[최고의 프로덕트는 무엇이 다른가]]></title>
         <id>https://bjpublic.tistory.com/522</id>
         <link href="https://bjpublic.tistory.com/522"/>
-        <updated>2024-05-28T18:03:54.000Z</updated>
+        <updated>2024-05-28T00:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 빠른 풀스택을 위한 Flask & FastAPI]]></title>
