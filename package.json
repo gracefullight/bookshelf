@@ -6,6 +6,7 @@
   },
   "scripts": {
     "cmd": "ts-node src/index.ts",
+    "lint": "oxlint --fix",
     "prepare": "husky"
   },
   "dependencies": {
@@ -30,7 +31,10 @@
     "@types/node": "^20.12.10",
     "devmoji": "^2.3.0",
     "husky": "^9.0.11",
+    "lint-staged": "^15.2.7",
+    "oxlint": "^0.4.4",
     "regenerator-runtime": "^0.14.1",
+    "sort-package-json": "^2.10.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   },
