@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.acornpub.co.kr/book/new</id>
     <title>acorn</title>
-    <updated>2024-06-24T00:16:05.970Z</updated>
+    <updated>2024-06-24T12:05:55.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -63,6 +63,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[확률론적 머신러닝 : 기본편]]></title>
+        <id>http://www.acornpub.co.kr/book/probabilistic-machine-learning</id>
+        <link href="http://www.acornpub.co.kr/book/probabilistic-machine-learning"/>
+        <updated>2024-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[이 책은 딥러닝 뿐만 아니라 머신러닝 학습을 위한 기초적인 수학적 토대 및 다양한 방법론을 폭넓게 다루고 있으며, 머신러닝 학습에 깊이를 더하고자 하는 독자들에게 최고의 선택이 될 것이다.]]></summary>
+        <author>
+            <name>케빈 머피(Kevin P. Murphy)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[멀웨어 분석과 리버스 엔지니어링]]></title>
         <id>http://www.acornpub.co.kr/book/malware-analysis</id>
         <link href="http://www.acornpub.co.kr/book/malware-analysis"/>
@@ -80,16 +90,6 @@
         <summary type="html"><![CDATA[양자 컴퓨터를 이해하기 위한 기초 개념부터 양자 알고리듬과 견고한 양자계산에 대해 다루는 책이다.]]></summary>
         <author>
             <name>엘레노어 리에펠(Eleanor Rieffel) 외 1명</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[확률론적 머신러닝 : 기본편]]></title>
-        <id>http://www.acornpub.co.kr/book/probabilistic-machine-learning</id>
-        <link href="http://www.acornpub.co.kr/book/probabilistic-machine-learning"/>
-        <updated>2024-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[이 책은 딥러닝 뿐만 아니라 머신러닝 학습을 위한 기초적인 수학적 토대 및 다양한 방법론을 폭넓게 다루고 있으며, 머신러닝 학습에 깊이를 더하고자 하는 독자들에게 최고의 선택이 될 것이다.]]></summary>
-        <author>
-            <name>케빈 머피(Kevin P. Murphy)</name>
         </author>
     </entry>
     <entry>
