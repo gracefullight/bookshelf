@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-06-27T00:15:07.252Z</updated>
+    <updated>2024-06-27T12:06:06.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -39,6 +39,16 @@
         <summary type="html"><![CDATA[모던 파이썬 개념부터 실전 프로젝트까지, 따라 하며 배우는 웹 백엔드 개발]]></summary>
         <author>
             <name>빌 루바노빅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100만 원 마케팅]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3545929340</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3545929340"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[작은 브랜드를 위한 가장 현실적인 광고 전략]]></summary>
+        <author>
+            <name>김건우</name>
         </author>
     </entry>
     <entry>
@@ -208,19 +218,6 @@
         <updated>2024-04-30T00:00:00.000Z</updated>
         <author>
             <name>서미진</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실무로 통하는 ML 문제 해결 with 파이썬]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2495961706</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2495961706"/>
-        <updated>2024-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[전처리부터 딥러닝까지, 216개 실용 예제로 익히는 문제 해결 기법]]></summary>
-        <author>
-            <name>카일 갤러틴</name>
-        </author>
-        <author>
-            <name>크리스 알본</name>
         </author>
     </entry>
 </feed>
