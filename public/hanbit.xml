@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-07-17T00:15:46.773Z</updated>
+    <updated>2024-07-17T12:06:18.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,25 @@
         <summary type="html"><![CDATA[106가지 레시피로 배우는 고성능 부하분산, 보안, 서버 배포와 관리]]></summary>
         <author>
             <name>데릭 디용기</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월 20달러로 고용하는 AI 변호사 with 챗GPT]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4474134407</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4474134407"/>
+        <updated>2024-07-22T00:00:00.000Z</updated>
+        <author>
+            <name>김덕은</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쓸모 있는 AI 서비스 만들기]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8530368944</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8530368944"/>
+        <updated>2024-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[사전 학습 모델로 빠르게 구현하는 실전 AI 프로젝트 가이드]]></summary>
+        <author>
+            <name>김경환</name>
         </author>
     </entry>
     <entry>
@@ -193,32 +212,6 @@
         <summary type="html"><![CDATA[기초, 실전, 고급 단계별로 배우는 레디스 핵심 가이드]]></summary>
         <author>
             <name>하야시 쇼고</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머신러닝 리스크 관리 with 파이썬]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6142313500</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6142313500"/>
-        <updated>2024-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[안정성과 신뢰성 높은 견고한 모델을 구축하는 방법]]></summary>
-        <author>
-            <name>패트릭 홀</name>
-        </author>
-        <author>
-            <name>제임스 커티스</name>
-        </author>
-        <author>
-            <name>파룰 판데이</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 프로그래머 되는 법]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2842485463</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2842485463"/>
-        <updated>2024-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[지금 바로 실천할 수 있는 선배 개발자의 39가지 노하우 / 국내 개발자 8인 인터뷰 수록]]></summary>
-        <author>
-            <name>피트 구들리프</name>
         </author>
     </entry>
 </feed>
