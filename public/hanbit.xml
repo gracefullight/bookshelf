@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-07-31T00:13:10.240Z</updated>
+    <updated>2024-07-31T12:06:21.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -28,6 +28,16 @@
         </author>
         <author>
             <name>스콧 S. 로우</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실무로 통하는 클린 코드]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2230430901</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2230430901"/>
+        <updated>2024-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[코드 품질과 디자인을 개선하는 208가지 실전 레시피]]></summary>
+        <author>
+            <name>막시밀리아노 콘티에리</name>
         </author>
     </entry>
     <entry>
@@ -212,16 +222,6 @@
         <summary type="html"><![CDATA[구글 스프레드시트로 엑셀 밟고 칼퇴하자!!]]></summary>
         <author>
             <name>강남석</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업무에 활용하는 Node.js]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5038538340</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5038538340"/>
-        <updated>2024-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[웹 애플리케이션 개발로 배우는 Node.js 원리와 실무 가이드]]></summary>
-        <author>
-            <name>이토 고타</name>
         </author>
     </entry>
 </feed>
