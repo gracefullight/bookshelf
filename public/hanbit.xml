@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-08-19T00:16:19.444Z</updated>
+    <updated>2024-08-19T12:06:31.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -29,6 +29,16 @@
         <summary type="html"><![CDATA[1,000만 직장인을 위한 보고서 문장 기술 27가지]]></summary>
         <author>
             <name>임영균</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 트루스]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4715598966</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B4715598966"/>
+        <updated>2024-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[두려움의 시대, 냉철하게 마주해야 할 가장 명확한 진실]]></summary>
+        <author>
+            <name>임백준</name>
         </author>
     </entry>
     <entry>
@@ -207,16 +217,6 @@
         <summary type="html"><![CDATA[굿즈 업체별 특징부터 영상 강의까지, 빨간고래의 굿즈 바이블]]></summary>
         <author>
             <name>빨간고래(박정아)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터로 말한다! CRM 마케팅]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9871976311</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9871976311"/>
-        <updated>2024-06-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[일회성 구매자를 충성 고객으로! 돈이 되는 고객 관리 실무 전략]]></summary>
-        <author>
-            <name>이은영</name>
         </author>
     </entry>
 </feed>
