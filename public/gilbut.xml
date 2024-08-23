@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gilbut.co.kr/search/search_book_list#code=003000000&amp;sub_code=&amp;view_mode=&amp;list_size=20&amp;order=date&amp;descending=true&amp;page=1</id>
     <title>gilbut</title>
-    <updated>2024-08-23T00:15:38.726Z</updated>
+    <updated>2024-08-23T12:05:48.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -105,6 +105,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스마트 노트 정리 with 굿노트]]></title>
+        <id>https://www.gilbut.co.kr/book/view?bookcode=BN004206</id>
+        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN004206"/>
+        <updated>2024-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[상위 1% 친구들의 똑똑한 공부 습관]]></summary>
+        <author>
+            <name>이상권</name>
+        </author>
+        <author>
+            <name>김형지</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[코딩 자율학습 리눅스 입문 with 우분투]]></title>
         <id>https://www.gilbut.co.kr/book/view?bookcode=BN004195</id>
         <link href="https://www.gilbut.co.kr/book/view?bookcode=BN004195"/>
@@ -179,19 +192,6 @@
         <updated>2024-08-11T00:00:00.000Z</updated>
         <author>
             <name>권은희</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹3 시대와 새로운 기회]]></title>
-        <id>https://www.gilbut.co.kr/book/view?bookcode=BN004183</id>
-        <link href="https://www.gilbut.co.kr/book/view?bookcode=BN004183"/>
-        <updated>2024-08-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[인터넷 패러다임 대전환과 혁명적 경제의 탄생]]></summary>
-        <author>
-            <name>알렉스 탭스콧</name>
-        </author>
-        <author>
-            <name>신현승</name>
         </author>
     </entry>
 </feed>
