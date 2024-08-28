@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-08-28T00:16:05.523Z</updated>
+    <updated>2024-08-28T12:07:30.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,26 @@
         <summary type="html"><![CDATA[누구나 할 수 있는 나만의 캐릭터와 굿즈 만들기]]></summary>
         <author>
             <name>두부(김경은)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머신러닝 인터뷰 실무 가이드]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1292011659</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1292011659"/>
+        <updated>2024-09-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ML 직무 중심의 채용 프로세스와 기술, 행동 인터뷰 대비 | 인터뷰 예상 질문, 답변 수록]]></summary>
+        <author>
+            <name>수잔 수 창</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소프트웨어 설계의 정석]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6716366558</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B6716366558"/>
+        <updated>2024-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[변화하는 기술 환경에서도 흔들리지 않는 설계의 기본 원칙]]></summary>
+        <author>
+            <name>요시하라 쇼자부로</name>
         </author>
     </entry>
     <entry>
@@ -197,26 +217,6 @@
         <summary type="html"><![CDATA[사전 학습 모델로 빠르게 구현하는 실전 AI 프로젝트 가이드]]></summary>
         <author>
             <name>김경환</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당근 마케팅]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2893308085</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B2893308085"/>
-        <updated>2024-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[작은 가게를 살리는 실전 비즈니스]]></summary>
-        <author>
-            <name>곽지운</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실무로 통하는 타입스크립트]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3243045669</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3243045669"/>
-        <updated>2024-07-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[바로 실행하며 익히는 105가지 오류 해방의 기술]]></summary>
-        <author>
-            <name>슈테판 바움가르트너</name>
         </author>
     </entry>
 </feed>
