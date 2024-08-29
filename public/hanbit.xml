@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-08-29T00:16:22.893Z</updated>
+    <updated>2024-08-29T12:06:13.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -39,6 +39,16 @@
         <summary type="html"><![CDATA[변화하는 기술 환경에서도 흔들리지 않는 설계의 기본 원칙]]></summary>
         <author>
             <name>요시하라 쇼자부로</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일잘러의 비밀, 엑셀 대신 파이썬으로 업무 자동화하기(개정판)]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8073448230</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8073448230"/>
+        <updated>2024-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[엑셀 반복 업무로 지친 직장인, 파이썬으로 칼퇴하자!]]></summary>
+        <author>
+            <name>포스코인재창조원</name>
         </author>
     </entry>
     <entry>
@@ -207,16 +217,6 @@
         <updated>2024-07-22T00:00:00.000Z</updated>
         <author>
             <name>김덕은</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓸모 있는 AI 서비스 만들기]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8530368944</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8530368944"/>
-        <updated>2024-07-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[사전 학습 모델로 빠르게 구현하는 실전 AI 프로젝트 가이드]]></summary>
-        <author>
-            <name>김경환</name>
         </author>
     </entry>
 </feed>
