@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-09-24T00:17:29.830Z</updated>
+    <updated>2024-09-24T12:06:33.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,16 @@
         <summary type="html"><![CDATA[프로 일잘러를 위한 가장 쉬운 챗GPT 활용 레시피]]></summary>
         <author>
             <name>조민정</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위대한 게임의 시작: 게임 시나리오 작법]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9312288351</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9312288351"/>
+        <updated>2024-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[플레이어를 몰입시키는 스토리텔링 기술부터 RPG, AOS, VR/AR 게임 기획까지]]></summary>
+        <author>
+            <name>이진희</name>
         </author>
     </entry>
     <entry>
@@ -217,16 +227,6 @@
         <summary type="html"><![CDATA[자바스크립트와 리액트의 최신 패턴과 렌더링, 성능 패턴까지]]></summary>
         <author>
             <name>애디 오스마니(Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 딥 다이브]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8118200104</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B8118200104"/>
-        <updated>2024-07-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[오차역전파부터 확산모델까지, 미래를 만드는 73가지 기술 이야기]]></summary>
-        <author>
-            <name>오카노하라 다이스케</name>
         </author>
     </entry>
 </feed>
