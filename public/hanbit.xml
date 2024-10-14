@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hanbit.co.kr/media/books/new_book_list.html</id>
     <title>hanbit</title>
-    <updated>2024-10-14T00:18:35.503Z</updated>
+    <updated>2024-10-14T12:07:00.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gracefullight</name>
@@ -19,6 +19,22 @@
         <summary type="html"><![CDATA[10단계로 익히는 이미지 생성 모델의 원리]]></summary>
         <author>
             <name>사이토 고키</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시작! AWS]]></title>
+        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7494593109</id>
+        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B7494593109"/>
+        <updated>2024-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[사전처럼 찾아보는 16가지 기본 서비스와 77가지 실무 활용 서비스]]></summary>
+        <author>
+            <name>가와바타 고헤이</name>
+        </author>
+        <author>
+            <name>기쿠치 다카아키</name>
+        </author>
+        <author>
+            <name>마나카 도시키</name>
         </author>
     </entry>
     <entry>
@@ -215,16 +231,6 @@
         <summary type="html"><![CDATA[AI 시스템에 쓰이는 통계학, 선형 대수학, 미적분학]]></summary>
         <author>
             <name>할라 넬슨</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이것이 취업을 위한 컴퓨터 과학이다 with CS 기술 면접]]></title>
-        <id>https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3079890360</id>
-        <link href="https://www.hanbit.co.kr/media/books/book_view.html?p_code=B3079890360"/>
-        <updated>2024-08-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[취업과 이직을 결정하는 필수 CS 지식+기술 면접 가이드]]></summary>
-        <author>
-            <name>강민철</name>
         </author>
     </entry>
 </feed>
